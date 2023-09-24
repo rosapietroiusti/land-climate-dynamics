@@ -1,2 +1,2 @@
 # land-climate-dynamics
-example scripts on working with climate data for the course 'Land-Climate Dynamics' 
+example scripts on working with climate data with cdo and xarray
